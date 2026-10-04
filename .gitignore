@@ -1,0 +1,13 @@
+# Never commit credentials or cluster secrets
+*.id_rsa
+*.key
+*.pem
+*.crt
+*.csr
+*.srl
+*.kubeconfig
+encryption-config.yaml
+machines.txt
+hosts
+downloads/
+.env
