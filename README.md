@@ -1,9 +1,7 @@
 # Kubernetes The Hard Way on AWS
 
 My notes from building a Kubernetes cluster by hand on AWS, following
-[Kelsey Hightower's Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way),
-with [Slawek Zachcial's AWS companion](https://github.com/slawekzachcial/kubernetes-the-hard-way-aws)
-for the infrastructure.
+[Kelsey Hightower's Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 No kubeadm, no EKS, no installers: every certificate, kubeconfig, systemd unit and route was created by hand.
 
